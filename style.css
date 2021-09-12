@@ -1,0 +1,12 @@
+body {
+    width: 400px;
+}
+
+body p {
+    word-wrap: break-word; 
+    font-family: 'Inconsolata', monospace;
+}
+h1 {
+    font-family: 'Inconsolata', monospace;
+    font-size:36px;
+}
