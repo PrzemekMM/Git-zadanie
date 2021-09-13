@@ -1,0 +1,7 @@
+Autoprefixer
+::autoprefixer-cli -o style.prefixed.css style.css
+
+HTML-VALIDATE
+
+
+::html-validate index.html
